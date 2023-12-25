@@ -1,7 +1,7 @@
-﻿# Quala-assignment-Google-vision-Text-Extractor
-## how to start
-### run server
-+ cd backend
-+ npm run server
-### run frontend
-+ npm start
+#krishan kumar Agrawal(20ucs100)
+#to run frontend of my project 
++cd frontend 
++npm start
+#for backend
++cd backend
++npm run server
