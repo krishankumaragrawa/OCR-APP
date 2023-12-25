@@ -1,7 +1,7 @@
 # Project Name
 
 ## Description
-Briefly describe your project.
+OCR google vision Api webapp
 
 ## Prerequisites
 Make sure you have the following installed:
