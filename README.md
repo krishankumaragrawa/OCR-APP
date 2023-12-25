@@ -1,7 +1,21 @@
-#krishan kumar Agrawal(20ucs100)
-#to run frontend of my project 
-+cd frontend 
-+npm start
-#for backend
-+cd backend
-+npm run server
+# Project Name
+
+## Description
+Briefly describe your project.
+
+## Prerequisites
+Make sure you have the following installed:
+- Node.js
+- npm
+
+## Frontend
+
+### Installation
+```bash
+# Change to the frontend directory
+cd frontend
+
+# Install dependencies
+npm install
+# Start the frontend
+npm start
